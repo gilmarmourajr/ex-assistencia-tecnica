@@ -8,8 +8,6 @@ public class AssistenciaTecnicaApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AssistenciaTecnicaApplication.class, args);
-
-
 	}
 
 	@org.springframework.context.annotation.Bean
@@ -26,8 +24,4 @@ public class AssistenciaTecnicaApplication {
 			}
 		};
 	}
-
-	// para testar o código:
-	// postman, insomnia, cURL
-
 }
