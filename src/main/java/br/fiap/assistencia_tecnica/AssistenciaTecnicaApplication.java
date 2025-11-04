@@ -25,3 +25,30 @@ public class AssistenciaTecnicaApplication {
 		};
 	}
 }
+
+/*
+
+inserir equipamento
+
+{
+		"cliente":{id:3},
+		"tipo":"notebook",
+		"marca":"Avell",
+		"modelo":"avell123",
+		"numeroSerie":"av456235",
+		"dataCadastro":"2025-11-04"
+		}
+
+
+
+inserir cliente
+{
+		"nome":"Selmini",
+		"email":"selminimini@mini.mini",
+		"telefone":"441441",
+		"senha":"seliminibanana"
+		}
+
+nao inserir pelo oracle
+
+ */
